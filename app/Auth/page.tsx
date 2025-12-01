@@ -1,9 +1,9 @@
-import AuthPage from "@/components/auth/index";
+import AuthModal from "@/components/auth/index";
 
 const Index = () => {
   return (
     <>
-      <AuthPage />
+      <AuthModal />
     </>
   )
 }
