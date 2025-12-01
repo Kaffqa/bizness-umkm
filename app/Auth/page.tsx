@@ -1,9 +1,9 @@
-import Home from "@/components/homepage/index";
+import AuthPage from "@/components/auth/index";
 
 const Index = () => {
   return (
     <>
-      <Home />
+      <AuthPage />
     </>
   )
 }
